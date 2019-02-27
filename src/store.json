@@ -1,0 +1,25 @@
+{
+  "brand": "海贝",
+  "goodsno": "test002",
+  "title": "美丽的连衣裙",
+  "price": 100,
+  "availableColor": ["yellow", "blue", "red"],
+  "availableSize": ["m", "l", "s"],
+  "stocks": [
+    {
+      "size": "m",
+      "color": "yellow",
+      "remain": 22
+    },
+    {
+      "size": "s",
+      "color": "blue",
+      "remain": 23
+    },
+    {
+      "size": "l",
+      "color": "red",
+      "remain": 34
+    }
+  ]
+}
